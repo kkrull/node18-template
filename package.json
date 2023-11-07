@@ -1,11 +1,11 @@
 {
-  "name": "node-test",
-  "version": "0.0.1",
+  "author": "",
   "description": "A place to try setting up Node.js",
+  "license": "ISC",
   "main": "index.js",
+  "name": "node-test",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "version": "0.0.1"
 }
