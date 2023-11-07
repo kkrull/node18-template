@@ -8,7 +8,7 @@
   "main": "index.js",
   "name": "node-test",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "version": "0.0.1"
 }
