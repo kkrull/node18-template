@@ -1,6 +1,9 @@
 {
   "author": "",
   "description": "A place to try setting up Node.js",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
   "license": "ISC",
   "main": "index.js",
   "name": "node-test",
